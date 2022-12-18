@@ -50,9 +50,14 @@ IF(VALUES(colony_loss[year]) = "2015/16", 6,
 IF(VALUES(colony_loss[year]) = "2016/17", 7,
 0)))))))
 ``` 
+<br><br/>
 
+### Model
 
-
+<p align="center">
+<img width="650em" src="https://github.com/Power-BI-Solutions/Honey-Bee-Colonies/blob/main/bee_data.png" align = "center"/>
+</p>
+<br><br/>
 
 
 
